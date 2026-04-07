@@ -148,7 +148,7 @@ HAUMonsters/
 
 | Task | Assignee |
 |------|----------|
-| Network Diagram | Josie / Yam |
+| Network Diagram | Josie & Yam |
 
 ---
 
@@ -156,8 +156,8 @@ HAUMonsters/
 
 | Task | Assignee |
 |------|----------|
-| Pricing and Estimate | Josie / Yam |
-| Network Diagram | Josie / Yam |
+| Pricing and Estimate | Josie & Yam |
+| Network Diagram | Josie & Yam |
 
 ---
 
