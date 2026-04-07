@@ -40,6 +40,17 @@ HAUMonsters/
 
 ---
 
+# 👥 Team Roles
+
+| Member | Role |
+|--------|------|
+| **Jin** | Front End Developer |
+| **Amber** | Lead Front End Developer |
+| **Yam** | Full-Stack Developer & Documentation |
+| **Josie** | UX Developer & Documentation |
+
+---
+
 # 📋 Task Distribution
 
 ---
